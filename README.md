@@ -5,7 +5,7 @@ Private projects to mine personal data mainly using python, elastic & kibana. My
 * deutsche bahn
 
 ## Netflix View History
-Scripts in subfolder "netflix" allow to extract your viewing history on Netflix as JSON. A second functions 
+Scripts in subfolder "netflix" allow to extract your [viewing history|https://www.netflix.com/viewingactivity] on Netflix as JSON. A second functions 
 allows to save this JSON to elasticsearch.
 
 My plan was to answer the following questions:
