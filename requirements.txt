@@ -1,4 +1,4 @@
-certifi==2019.11.28
+certifi==2022.12.7
 elasticsearch==7.1.0
 elasticsearch-dsl==7.1.0
 httplib2==0.15.0
